@@ -1,0 +1,12 @@
+cs1
+tdc
+3
+10
+cs2
+nnlp2
+3
+8
+cs3
+nnlp2
+3
+9
